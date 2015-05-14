@@ -10,4 +10,5 @@ We have seen several times, that simulators were equipped with rotary knobs with
 
 Here you find a low price way, to enable the development of own mock-up in-vehicle interfaces for experiments, that can be controlled with a suited rotary knob. 
 
-
+----------
+[![DOI](https://zenodo.org/badge/12944/InstituteOfErgonomics/DDS.svg)](http://dx.doi.org/10.5281/zenodo.17617)
